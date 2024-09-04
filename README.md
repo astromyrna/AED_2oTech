@@ -30,7 +30,7 @@ Laboratório de Análise Exploratória de Dados<dl>
     <li>cálculos de custos unitários (por unidade de medida)</li>
     <li>familiarização com sistemas de codificação mundiais regulamentados</li>
     <li>interpretação de códigos EAN-13</li>
-    <li>montagem de um dataset a partir de fontes de dados independentes</li>
+    <li>montagem de um <i>dataset</i> a partir de fontes de dados independentes</li>
     </ul>
   </dd>
 </dl>
