@@ -1,6 +1,5 @@
 # AED_2oTech
 Materiais da disciplina de Análise Exploratória de Dados, 2o ano Tech.
-Os arquivos também estáo sendo colocados nas equipes 2G e 2H do Teams, pasta Análise Exploratória de Dados.
 
 Este repositório contém:
 ## AED-Roadmap_versao2.pdf
