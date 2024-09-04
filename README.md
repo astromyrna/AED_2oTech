@@ -19,12 +19,12 @@ Laboratório de Análise Exploratória de Dados
   <dt>Case:</dt>
   <dd>Farofa Diferenciada</dd>
   <dt>Atividades:</dt>
-  <dd>coleta de dados no Mercado J&F, varejo físico e virtual</dd>
-  <dd>análise de dados</dd>
+  <dd>coleta de dados no Mercado J&F, varejo físico e virtual<br>
+  análise de dados</dd>
   <dt>Skills a serem praticados/adquiridos:</dt>
-  <dd>coleta de informações diversificadas</dd>
-  <dd>uniformização de unidades de medida</dd>
-  <dd>cálculos de custos unitários (por unidade de medida)</dd>
+  <dd>coleta de informações diversificadas<br>
+    uniformização de unidades de medida<br>
+    cálculos de custos unitários (por unidade de medida)</dd>
 </dl>
 
 ## Random
