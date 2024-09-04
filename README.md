@@ -28,6 +28,9 @@ Laboratório de Análise Exploratória de Dados<dl>
     <li>coleta de informações diversificadas</li>
     <li>uniformização de unidades de medida</li>
     <li>cálculos de custos unitários (por unidade de medida)</li>
+    <li>familiarização com sistemas de codificação mundiais regulamentados</li>
+    <li>interpretação de códigos EAN-13</li>
+    <li>montagem de um dataset a partir de fontes de dados independentes</li>
     </ul>
   </dd>
 </dl>
