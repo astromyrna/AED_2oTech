@@ -3,6 +3,9 @@ Materiais da disciplina de Análise Exploratória de Dados, 2o ano Tech.
 Os arquivos também estáo sendo colocados nas equipes 2G e 2H do Teams, pasta Análise Exploratória de Dados.
 
 Este repositório contém:
+## AED-Roadmap_versao2.pdf
+Contexto da Análise Exploratória de Dados na Germinare Tech.
+
 ## Interdisciplinar 
 <ul>
   <li>Modelo do relatório interdisciplinar para Análise Exploratória de Dados e Análise de Dados (PDF e docx)</li>
